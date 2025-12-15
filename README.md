@@ -16,7 +16,7 @@ Python     4 mins          -------------------------   00.63 %
 
 <!--START_SECTION:maka-->
 
-```Nix
+```Elvish Transcript
 From: 08 December 2025 - To: 15 December 2025
 
 Total Time: 12 hrs 39 mins

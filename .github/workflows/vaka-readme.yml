@@ -17,7 +17,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SECTION_NAME: vaka
-          CODE_LANG: Nix
+          CODE_LANG: Elvish Transcript
           BLOCKS: ->
           TIME_RANGE: last_7_days
           SHOW_TIME: true

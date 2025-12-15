@@ -16,6 +16,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
+          SECTION_NAME: maka
           CODE_LANG: Elvish Transcript
           BLOCKS: ->
           TIME_RANGE: all_time

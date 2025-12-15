@@ -1,7 +1,7 @@
 
 <!--START_SECTION:vaka-->
 
-```haskell
+```Nix
 From: 08 December 2025 - To: 15 December 2025
 
 Total Time: 12 hrs 37 mins
